@@ -1,0 +1,15 @@
+INFO     root:base.py:17 正在初始化driver:<selenium.webdriver.chrome.webdriver.WebDriver (session="7845f604b69da165e0f7507899d8b572")>
+INFO     root:page_mp_login.py:42 正在调用自媒体登录业务方法，用户名：13812345678，密码：246810
+INFO     root:base.py:40 正在对：('css selector', "[placeholder='请输入手机号']")元素执行获取操作
+INFO     root:base.py:29 正在查找元素：('css selector', "[placeholder='请输入手机号']")
+INFO     root:base.py:43 正在对：('css selector', "[placeholder='请输入手机号']")元素执行清空操作
+INFO     root:base.py:46 正在对：('css selector', "[placeholder='请输入手机号']")元素执行输入：13812345678操作
+INFO     root:base.py:40 正在对：('css selector', "[placeholder='验证码']")元素执行获取操作
+INFO     root:base.py:29 正在查找元素：('css selector', "[placeholder='验证码']")
+INFO     root:base.py:43 正在对：('css selector', "[placeholder='验证码']")元素执行清空操作
+INFO     root:base.py:46 正在对：('css selector', "[placeholder='验证码']")元素执行输入：246810操作
+INFO     root:base.py:56 正在对：('css selector', '.el-button--primary')元素执行点击操作
+INFO     root:base.py:29 正在查找元素：('css selector', '.el-button--primary')
+ERROR    root:base.py:72 断言出错，正在执行截图操作！！
+INFO     root:base.py:66 正在对：('css selector', '.user-name')元素执行获取文本操作
+INFO     root:base.py:29 正在查找元素：('css selector', '.user-name')
